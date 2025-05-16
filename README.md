@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Ta querendo oque aqui, curioso? 🤔
+Ta querendo oque aqui, curioso? 🤔
 
  <div>
    <a href="https://github.com/smuhanerd">
